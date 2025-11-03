@@ -1,0 +1,35 @@
+Primary Background: #0f172a  (Dark slate)
+Secondary Background: #1e293b  (Lighter slate)
+Border Color: #334155  (Medium gray)
+
+Green (Primary): #10b981  (Eco-friendly)
+Blue: #3b82f6  (Trust)
+Orange: #f59e0b  (Energy)
+Red: #ef4444  (Awareness)
+Purple: #8b5cf6  (Accent)
+Pink: #ec4899  (Accent)
+
+Primary Text: #f1f5f9  (Near white)
+Secondary Text: #e2e8f0  (Light gray)
+Muted Text: #94a3b8  (Medium gray)
+Disabled Text: #64748b  (Dark gray)
+
+Slice 0: #ef4444 (Red)
+Slice 1: #10b981 (Green)
+Slice 2: #3b82f6 (Blue)
+Slice 3: #8b5cf6 (Purple)
+Slice 4: #f59e0b (Orange)
+Slice 5: #ec4899 (Pink)
+Slice 6: #14b8a6 (Teal)
+Slice 7: #f97316 (Dark orange)
+
+Button hover: Scale 1.02x, enhanced glow
+Button press: Scale 0.98x
+Text field focus: Green border, glow effect
+Smooth transitions on all interactions
+
+Dark track (#1e293b)
+Medium gray thumb (#475569)
+Lighter hover (#64748b)
+Rounded corners (10px)
+Hidden arrow buttons
